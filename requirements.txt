@@ -1,0 +1,13 @@
+flask
+openai
+pandas
+matplotlib
+plotly
+scipy
+scikit-learn
+langchain
+tiktoken
+chromadb
+unstructured
+pdf2image
+pinecone
