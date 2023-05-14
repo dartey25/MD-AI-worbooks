@@ -10,4 +10,4 @@ tiktoken
 chromadb
 unstructured
 pdf2image
-pinecone
+pinecone-client
